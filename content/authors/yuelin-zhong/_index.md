@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuelin Zhong 仲玥霖
+title: Yuelin Zhong
 
 # Full name (for SEO)
 first_name: Yuelin
