@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.A in Biology and Statistics (Biostatistics Concentration). Minor in Psychology
+    - course: BA in Biology and Statistics (Biostatistics Concentration). Minor in Psychology
       institution: University of Virginia
       year: 2020
 
