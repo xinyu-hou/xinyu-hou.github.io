@@ -1,67 +1,37 @@
 ---
-title: "The Notch1/CD22 signaling axis disrupts Treg cell function in SARS-CoV2-associated multisystem inflammatory syndrome in children"
+title: "A Stk4-Foxp3-NF-κB p65 transcriptional complex promotes Treg cell activation and homeostasis"
 authors:
+- Ye Cui
 - Mehdi Benamar
-- Qian Chen
-- Janet Chou
-- Amélie M Julé
-- Rafik Boudra
-- Paola Contini
-- Elena Crestani
-- Peggy S Lai
-- Muyun Wang
-- Jason Fong
-- Shira Rockwitz
-- Pui Y Lee
-- Tsz Man Fion Chan
-- Ekin Zeynep Altun
-- Eda Kepenekli
-- Elif Karakoc-Aydiner
-- Ahmet Ozen
-- Perran Boran
-- Fatih Aygun
-- Pınar Önal
-- Ayse Ayzit Kilinc Sakalli
-- Haluk Cokugras
-- Metin Yusuf Gelmez
-- Fatma B Oktelik
-- Esin Cetin Aktas
-- Yuelin Zhong
-- Maria L Taylor
-- Katherine Irby
-- Natasha B Halasa
-- Elizabeth H Mack
-- Sara Signa
-- Ignazia Prigione
-- Marco Gattorno
-- Nicola Cotugno
-- Donato Amodio
-- Raif S Geha
-- Mary Beth Son
-- Jane W Newburger
-- Pankaj B Agrawal
-- Stefano Volpi
-- Paolo Palma
-- Ayca Kiykim
-- Adrienne Randolph
-- Gunnur Deniz
-- Safa Baris
-- Raffaele De Palma
 - Klaus Schmitz-Abe
+- Varsha Poondi-Krishnan
+- Qian Chen
+- Bat-Erdene Jugder
+- Benoit Fatou
+- Jason Fong
+- Yuelin Zhong
+- Stuti Mehta
+- Altantsetseg Buyanbat
+- Beray Selver Eklioglu
+- Esra Karabiber
+- Safa Baris
+- Ayca Kiykim
+- Sevgi Keles
+- Emmanuel Stephen-Victor
+- Claudia Angelini
 - Louis-Marie Charbonnier
-- Lauren A Henderson
 - Talal A Chatila
-tags:
-- Adaptive immunity
-- COVID-19
-- Immunology
-- T cells
-- Tolerance
+# tags:
+# - Adaptive Immunity
+# - COVID-19
+# - Immunology
+# - T Cells
+# - Tolerance
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2022-10-25T00:00:00Z"
-doi: "10.1172/JCI163235"
+date: "2022-09-23T00:00:00Z"
+doi: "10.1126/sciimmunol.abl8357"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -73,10 +43,10 @@ doi: "10.1172/JCI163235"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Journal of Clinical Investigation*"
+publication: "*SCIENCE IMMUNOLOGY*"
 # publication_short: ""
 
-abstract: Multisystem inflammatory syndrome in children (MIS-C) evolves in some pediatric patients following acute infection with SARS-CoV-2 by hitherto unknown mechanisms. Whereas acute-COVID-19 severity and outcome were previously correlated with Notch4 expression on regulatory T (Treg) cells, here we show that the Treg cells in MIS-C are destabilized through a Notch1-dependent mechanism. Genetic analysis revealed that MIS-C patients were enriched in rare deleterious variants impacting inflammation and autoimmunity pathways, including dominant-negative mutations in the Notch1 regulators NUMB and NUMBL leading to Notch1 upregulation. Notch1 signaling in Treg cells induced CD22, leading to their destabilization in a mTORC1-dependent manner and to the promotion of systemic inflammation. These results establish a Notch1-CD22 signaling axis that disrupts Treg cell function in MIS-C and point to distinct immune checkpoints controlled by individual Treg cell Notch receptors that shape the inflammatory outcome in SARS-CoV-2 infection.
+abstract: The molecular programs involved in regulatory T (Treg) cell activation and homeostasis remain incompletely understood. Here, we show that T cell receptor (TCR) signaling in Treg cells induces the nuclear translocation of serine/threonine kinase 4 (Stk4), leading to the formation of an Stk4-NF-κB p65-Foxp3 complex that regulates Foxp3- and p65-dependent transcriptional programs. This complex was stabilized by Stk4-dependent phosphorylation of Foxp3 on serine-418. Stk4 deficiency in Treg cells, either alone or in combination with its homolog Stk3, precipitated a fatal autoimmune lymphoproliferative disease in mice characterized by decreased Treg cell p65 expression and nuclear translocation, impaired NF-κB p65-Foxp3 complex formation, and defective Treg cell activation. In an adoptive immunotherapy model, overexpression of p65 or the phosphomimetic Foxp3S418E in Stk3/4-deficient Treg cells ameliorated their immune regulatory defects. Our studies identify Stk4 as an essential TCR-responsive regulator of p65-Foxp3-dependent transcription that promotes Treg cell-mediated immune tolerance.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -88,7 +58,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://dm5migu4zj3pb.cloudfront.net/manuscripts/163000/163235/cache/163235.1-20221024160403-covered-e0fd13ba177f913fd3156f593ead4cfd.pdf
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
