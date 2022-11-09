@@ -67,6 +67,33 @@ experience:
     date_end: '2021-08-31'
     description: Research assistant in Professor Alexandra To's lab.
 
+  - title: Undergraduate Research Assistant
+    company: University of Virginia
+    company_url: 'https://www.virginia.edu/'
+    # company_logo: org-x
+    location: Charlottesville, VA
+    date_start: '2019-01-01'
+    date_end: '2020-12-31'
+    description: Research assistant in Professor Charlotte Patterson's Sexual Orientation, Human Development, and Family Lives lab. Supervised by Yanbin (Barbara) Li.
+
+  - title: Undergraduate Teaching Assistant
+    company: University of Virginia
+    company_url: 'https://www.virginia.edu/'
+    # company_logo: org-x
+    location: Charlottesville, VA
+    date_start: '2016-08-01'
+    date_end: '2020-12-31'
+    description: Teaching assistant for elementary, intermediate, and advanced CHIN courses.
+
+  - title: UVa STARTALK Program Assistant
+    company: University of Virginia
+    company_url: 'https://www.virginia.edu/'
+    # company_logo: org-x
+    location: Charlottesville, VA
+    date_start: '2017-01-01'
+    date_end: '2017-08-31'
+    description: Program assistant for UVa STARTALK Program. Supervised by Professor Miao-fen Tseng.
+
 design:
   columns: '2'
 ---
