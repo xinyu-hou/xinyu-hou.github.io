@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: lannyzhongyuelin at gmail dot com
+  email: xinyuhou124 at gmail dot com
   # phone: 888-888-8888
   address:
     city: Boston

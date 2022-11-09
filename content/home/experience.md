@@ -22,54 +22,50 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Immunology Research Assistant II
-    company: Boston Children's Hospital
-    company_url: 'https://www.childrenshospital.org/'
+  - title: Software Engineer Intern
+    company: MathWorks
+    company_url: 'https://www.mathworks.com/'
     # company_logo: org-gc
-    location: Boston, MA
-    date_start: '2022-10-01'
-    date_end: ''
-    description: |2-
-        Research Area:
+    location: Natick, MA
+    date_start: '2022-05-01'
+    date_end: '2022-08-31'
+    # description: |2-
+    #     Research Area:
 
-        * Autoimmune Diseases
-        * Regulatory T Cells
+    #     * Autoimmune Diseases
+    #     * Regulatory T Cells
 
-        Experience:
+    #     Experience:
         
-        * Animal (Rodents) Research
-        * Flow Cytometry
-        * Molecular Biology
+    #     * Animal (Rodents) Research
+    #     * Flow Cytometry
+    #     * Molecular Biology
 
-  - title: Immunology Research Assistant I
-    company: Boston Children's Hospital
-    company_url: 'https://www.childrenshospital.org/'
+  - title: Software Engineer Coop
+    company: Quantum Diamond Technologies Inc (QDTI)
+    company_url: 'https://qdti.com/'
+    # company_logo: org-gc
+    location: Somerville, MA
+    date_start: '2021-12-01'
+    date_end: '2022-05-01'
+
+  - title: Graduate Teaching Assistant
+    company: Northeastern University
+    company_url: 'https://www.northeastern.edu/'
     # company_logo: org-gc
     location: Boston, MA
-    date_start: '2020-10-01'
-    date_end: '2022-09-30'
+    date_start: '2021-05-01'
+    date_end: ''
+    description: Teaching assistant for CS 3500 Object-Oriented Design.
 
-  - title: Teaching Assistant
-    company: JNC Study Abroad Platform
-    company_url: 'http://en.jncabroad.com/'
-    # company_logo: org-gc
-    location: Shanghai, China
-    date_start: '2019-06-01'
-    date_end: '2019-08-31'
-    description: |1-
-      * Assisted teaching in 3 summer courses: Contemporary Chemistry, General Psychology and Concepts of Biology.
-      * Worked as a briefer to familiarize the US instructors with the life in Shanghai, China.
-
-  - title: Laboratory Assistant
-    company: Liang Lab, Emory University
-    company_url: 'https://med.emory.edu/departments/biochemistry/research-labs/liang/index.html'
+  - title: Graduate Research Assistant
+    company: Northeastern University
+    company_url: 'https://www.northeastern.edu/'
     # company_logo: org-x
-    location: Atlanta, GA
-    date_start: '2018-06-01'
-    date_end: '2018-08-31'
-    description: |2-
-      * Worked under the supervision of lab PI and mentors on projects focused on the protein structures of two different virus systems: RSV (Respiratory syncytial virus) and VSBV (Variegated Squirrel Borna Virus).
-      * Training include PCR, DNA gel electrophoresis, gel extraction, transformation, bacteria (E.coli) culture, SDS-PAGE gel, protein purification.
+    location: Boston, MA
+    date_start: '2021-05-01'
+    date_end: '2021-08-31'
+    description: Research assistant in Professor Alexandra To's lab.
 
 design:
   columns: '2'
