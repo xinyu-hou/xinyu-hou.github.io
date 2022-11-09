@@ -29,8 +29,7 @@ experience:
     location: Natick, MA
     date_start: '2022-05-01'
     date_end: '2022-08-31'
-    # description: |2-
-    #     Research Area:
+    description: Engineering Development Group (EDG) intern on the MATLAB Online Server (MOS) team. Supervised by Krishan Sharma and Joshua Wang.
 
     #     * Autoimmune Diseases
     #     * Regulatory T Cells
@@ -48,6 +47,7 @@ experience:
     location: Somerville, MA
     date_start: '2021-12-01'
     date_end: '2022-05-01'
+    description: Supervised by Tomasz Piech.
 
   - title: Graduate Teaching Assistant
     company: Northeastern University
