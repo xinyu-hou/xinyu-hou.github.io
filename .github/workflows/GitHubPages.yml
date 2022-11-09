@@ -28,7 +28,7 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
-          publish_branch: main  # deploying branch
+          publish_branch: gh-pages  # deploying branch
           cname: xinyu-hou.github.io
           allow_empty_commit: true
           external_repository: xinyu-hou/xinyu-hou.github.io
