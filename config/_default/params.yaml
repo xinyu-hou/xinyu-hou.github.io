@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yuelin Zhong.'
+    notice: '© {year} Xinyu Hou.'
     license:
       enable: false
       allow_derivatives: false

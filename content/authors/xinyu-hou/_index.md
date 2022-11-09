@@ -1,35 +1,38 @@
 ---
 # Display name
-title: Yuelin Zhong
+title: Xinyu Hou
 
 # Full name (for SEO)
-first_name: Yuelin
-last_name: Zhong
+first_name: Xinyu
+last_name: Hou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Immunology Research Assistant at Boston Children's Hospital
+role: MSCS Student at Northeastern University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Boston Children's Hospital
-    url: https://www.childrenshospital.org/
+  - name: Northeastern University
+    url: https://www.northeastern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include research immunology, big data and innovative biotechnologies.
+bio: My interests include software engineering, machine learning, and cloud computing.
 
 # Interests to show in About widget
 interests:
-  - Research Immunology
-  - Big Data
-  - Innovative Biotechnologies
+  - Software Engineering
+  - Machine Learning
+  - Cloud Computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: BA in Biology and Statistics (Biostatistics Concentration). Minor in Psychology
+    - course: MS in Computer Science
+      institution: Northeastern University
+      year: 2023
+    - course: BA in Psychology and Computer Science
       institution: University of Virginia
       year: 2020
 
@@ -44,10 +47,10 @@ social:
     link: '/#contact'
   - icon: github
     icon_pack: fab
-    link: https://github.com/yuelin-zhong
+    link: https://github.com/xinyu-hou
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yuelin-zhong-dd0223/
+    link: https://www.linkedin.com/in/xinyu-hou-db0223/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -73,6 +76,8 @@ email: ''
 highlight_name: true
 ---
 
-Yuelin Zhong is an immunology research assistant at Boston Children's Hospital. She earned her Bachelor's degree from University of Virginia. Major in Biology (B.A) & Statistics (Biostatistics Concentration). Minor in Psychology. Her interests include research immunology, big data, and innovative biotechnolgies.
+Xinyu Hou is currently pursuing a Master’s degree in Computer Science at Northeastern University in Boston, MA. She earned her Bachelor's degree from University of Virginia, double majoring in Psychology and Computer Science.
+
+She is passionate about software engineering, machine learning, and cloud computing. She has research experience in both Psychology and Computer Science. She is a highly motivated, collaborative, and detail-oriented person who is always interested in learning new stuff and can quickly adapt to different environments.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
