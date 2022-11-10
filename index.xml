@@ -28,7 +28,7 @@
 &lt;/div>
 &lt;/div>
 &lt;h2 id="get-inspired">Get inspired&lt;/h2>
-&lt;p>&lt;a href="https://github.com/wowchemy/starter-academic/tree/master/exampleSite" target="_blank" rel="noopener">Check out the Markdown files&lt;/a> which power the &lt;a href="https://academic-demo.netlify.app" target="_blank" rel="noopener">Academic Demo&lt;/a>, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the showcase&lt;/a>.&lt;/p></description></item><item><title>Skills</title><link>https://xinyu-hou.github.io/storage/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinyu-hou.github.io/storage/skills/</guid><description/></item><item><title>Accomplish&amp;shy;ments</title><link>https://xinyu-hou.github.io/storage/accomplishments/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinyu-hou.github.io/storage/accomplishments/</guid><description/></item><item><title>Recent Posts</title><link>https://xinyu-hou.github.io/storage/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinyu-hou.github.io/storage/posts/</guid><description/></item><item><title>Projects</title><link>https://xinyu-hou.github.io/storage/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinyu-hou.github.io/storage/projects/</guid><description/></item><item><title>Gallery</title><link>https://xinyu-hou.github.io/storage/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinyu-hou.github.io/storage/gallery/</guid><description>
+&lt;p>&lt;a href="https://github.com/wowchemy/starter-academic/tree/master/exampleSite" target="_blank" rel="noopener">Check out the Markdown files&lt;/a> which power the &lt;a href="https://academic-demo.netlify.app" target="_blank" rel="noopener">Academic Demo&lt;/a>, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the showcase&lt;/a>.&lt;/p></description></item><item><title>Skills</title><link>https://xinyu-hou.github.io/storage/skills/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinyu-hou.github.io/storage/skills/</guid><description/></item><item><title>Recent Posts</title><link>https://xinyu-hou.github.io/storage/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinyu-hou.github.io/storage/posts/</guid><description/></item><item><title>Projects</title><link>https://xinyu-hou.github.io/storage/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinyu-hou.github.io/storage/projects/</guid><description/></item><item><title>Gallery</title><link>https://xinyu-hou.github.io/storage/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinyu-hou.github.io/storage/gallery/</guid><description>
 &lt;div class="gallery-grid">
 &lt;div class="gallery-item gallery-item--medium">
 &lt;a data-fancybox="gallery-demo" href="https://xinyu-hou.github.io/media/albums/demo/chris-montgomery-smgTvepind4-unsplash.jpg" >
@@ -249,7 +249,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-826759413" class="chart">&lt;/div>
+&lt;div id="chart-945217638" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -258,7 +258,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-826759413', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-945217638', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
