@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://www.credly.com/badges/dd43f063-8686-4317-ad69-9c2fbd1cfa3b/public_url
+    date_end: ''
+    date_start: '2022-12-30'
+    description: 'Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.'
+    organization: Microsoft
+    organization_url: https://learn.microsoft.com/en-us/certifications/
+    title: 'Microsoft Certified: Azure Fundamentals'
+    url: 'https://learn.microsoft.com/en-us/certifications/azure-fundamentals/'
   - certificate_url: https://www.credly.com/badges/30c62716-9526-46c7-b961-5297eebf3865?source=linked_in_profile
     date_end: ''
     date_start: '2022-04-28'

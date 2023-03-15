@@ -55,7 +55,7 @@ experience:
     # company_logo: org-gc
     location: Boston, MA
     date_start: '2021-05-01'
-    date_end: ''
+    date_end: '2022-12-31'
     description: Teaching assistant for CS 3500 Object-Oriented Design.
 
   - title: Graduate Research Assistant
