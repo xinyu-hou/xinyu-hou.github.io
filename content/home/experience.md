@@ -22,6 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer in Test
+    company: MathWorks
+    company_url: 'https://www.mathworks.com/'
+    # company_logo: org-gc
+    location: Natick, MA
+    date_start: '2025-02-01'
+    # date_end: '2025-01-31'
+  
+  - title: Software Engineer
+    company: MathWorks
+    company_url: 'https://www.mathworks.com/'
+    # company_logo: org-gc
+    location: Natick, MA
+    date_start: '2023-06-01'
+    date_end: '2025-01-31'
+    description: Engineer in Engineering Development Group (EDG)
+
   - title: Software Engineer Intern
     company: MathWorks
     company_url: 'https://www.mathworks.com/'
@@ -29,7 +46,7 @@ experience:
     location: Natick, MA
     date_start: '2022-05-01'
     date_end: '2022-08-31'
-    description: Engineering Development Group (EDG) intern on the MATLAB Online Server (MOS) team. Supervised by Krishan Sharma and Joshua Wang.
+    description: Engineering Development Group (EDG) intern
 
     #     * Autoimmune Diseases
     #     * Regulatory T Cells
@@ -47,7 +64,7 @@ experience:
     location: Somerville, MA
     date_start: '2021-12-01'
     date_end: '2022-05-01'
-    description: Supervised by Tomasz Piech.
+    # description: Supervised by Tomasz Piech.
 
   - title: Graduate Teaching Assistant
     company: Northeastern University
@@ -56,7 +73,7 @@ experience:
     location: Boston, MA
     date_start: '2021-05-01'
     date_end: '2022-12-31'
-    description: Teaching assistant for CS 3500 Object-Oriented Design.
+    description: Teaching assistant for CS 3500 Object-Oriented Design
 
   - title: Graduate Research Assistant
     company: Northeastern University
@@ -65,7 +82,7 @@ experience:
     location: Boston, MA
     date_start: '2021-05-01'
     date_end: '2021-08-31'
-    description: Research assistant in Professor Alexandra To's lab.
+    description: Research assistant in Professor Alexandra To's lab
 
   - title: Undergraduate Research Assistant
     company: University of Virginia
@@ -74,7 +91,7 @@ experience:
     location: Charlottesville, VA
     date_start: '2019-01-01'
     date_end: '2020-12-31'
-    description: Research assistant in Professor Charlotte Patterson's Sexual Orientation, Human Development, and Family Lives lab. Supervised by Yanbin (Barbara) Li.
+    description: Research assistant in Professor Charlotte Patterson's Sexual Orientation, Human Development, and Family Lives lab 
 
   - title: Undergraduate Teaching Assistant
     company: University of Virginia
@@ -83,7 +100,7 @@ experience:
     location: Charlottesville, VA
     date_start: '2016-08-01'
     date_end: '2020-12-31'
-    description: Teaching assistant for elementary, intermediate, and advanced CHIN courses.
+    description: Teaching assistant for elementary, intermediate, and advanced CHIN courses
 
   - title: UVa STARTALK Program Assistant
     company: University of Virginia
@@ -92,7 +109,7 @@ experience:
     location: Charlottesville, VA
     date_start: '2017-01-01'
     date_end: '2017-08-31'
-    description: Program assistant for UVa STARTALK Program. Supervised by Professor Miao-fen Tseng.
+    description: Program assistant for UVa STARTALK Program
 
 design:
   columns: '2'

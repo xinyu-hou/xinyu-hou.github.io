@@ -23,8 +23,8 @@ bio: My interests include software engineering, machine learning, and cloud comp
 # Interests to show in About widget
 interests:
   - Software Engineering
-  - Machine Learning
   - Cloud Computing
+  - DevOps
 
 # Education to show in About widget
 education:
@@ -76,8 +76,8 @@ email: ''
 highlight_name: true
 ---
 
-Xinyu Hou is currently pursuing a Master’s degree in Computer Science at Northeastern University in Boston, MA. She earned her Bachelor's degree from University of Virginia, double majoring in Psychology and Computer Science.
+Xinyu Hou is currently working as a Software Engineer in Test at MathWorks. She earned her bachelor's degree from the University of Virginia, where she double-majored in Psychology and Computer Science. She later earned her master's degree in Computer Science from Northeastern University in Boston, MA.
 
-She is passionate about software engineering, machine learning, and cloud computing. She has research experience in both Psychology and Computer Science. She is a highly motivated, collaborative, and detail-oriented person who is always interested in learning new stuff and can quickly adapt to different environments.
+She is passionate about software engineering, cloud computing and DevOps. She has research experience in both Psychology and Computer Science. She is a highly motivated, collaborative, and detail-oriented person who is always interested in learning new stuff and can quickly adapt to different environments.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
