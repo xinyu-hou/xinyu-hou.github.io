@@ -14,21 +14,20 @@ appearance:
 # SEO
 params:
   analytics:
-    google: ''
+    google: ''  # This line is OK
+  marketing:
+    seo:
+      site_type: Person
+      local_business_type: ''
+      org_name: ''
+      description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+      twitter: 'wowchemy'
+    analytics:
+      google: ''  # <- This is the line Wowchemy expects
+    verification:
+      google: ''
+      baidu: ''
 
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google: ''
-  #   baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
 
 # Site header
 
