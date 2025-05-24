@@ -10,15 +10,15 @@ last_name: Hou
 superuser: true
 
 # Role/position/tagline
-role: MSCS Student at Northeastern University
+role: Software Engineer in Test
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Northeastern University
-    url: https://www.northeastern.edu/
+  - name: MathWorks
+    url: https://www.mathworks.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include software engineering, machine learning, and cloud computing.
+bio: My interests include software engineering, cloud computing, and DevOps.
 
 # Interests to show in About widget
 interests:
@@ -78,6 +78,6 @@ highlight_name: true
 
 Xinyu Hou is currently working as a Software Engineer in Test at MathWorks. She earned her bachelor's degree from the University of Virginia, where she double-majored in Psychology and Computer Science. She later earned her master's degree in Computer Science from Northeastern University in Boston, MA.
 
-She is passionate about software engineering, cloud computing and DevOps. She has research experience in both Psychology and Computer Science. She is a highly motivated, collaborative, and detail-oriented person who is always interested in learning new stuff and can quickly adapt to different environments.
+She is passionate about software engineering, cloud computing, and DevOps. She has research experience in both Psychology and Computer Science. She is a highly motivated, collaborative, and detail-oriented person who is always interested in learning new stuff and can quickly adapt to different environments.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
